@@ -1,1 +1,1 @@
-This is a zomatao clone.
+This is a Zomatao Clone.
